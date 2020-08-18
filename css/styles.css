@@ -1,0 +1,22 @@
+body{
+
+  background-image: url("../images/clud.png");
+  background-repeat: repeat;
+  background-color: powderblue;
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+}
+h1{
+  padding: 50px;
+  color: #66bfbf;
+  line-height: 2;
+}
+.container{
+  background-color: white;
+  width: 500px;
+  height: 500px;
+  margin: 100px auto 100px auto;
+}
+.in{
+  color: #66bfbf;
+}
